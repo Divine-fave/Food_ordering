@@ -1,0 +1,1 @@
+DATABASE_URL=postgresql://postgres:Divine123@#$/localhost:5432/food_ordering
